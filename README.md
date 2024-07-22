@@ -1,5 +1,5 @@
 ## My Portfolio
-Please click on the file or [this link](https://github.com/itsharrison/My-Portfolio/blob/main/Data%20Analyst%20Portfolio.pdf) to see my portfolio that contains five of the data projects I've completed.
+### Please click on the file or [this link](https://github.com/itsharrison/My-Portfolio/blob/main/Data%20Analyst%20Portfolio.pdf) to see my portfolio that contains five of the data projects I've completed.
 ## A List of All the Links Included (PDF Links Don't Work on GitHub)
 ### GameCo
 #### Datasets
